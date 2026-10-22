@@ -1,7 +1,5 @@
-# NAR Café — client demonstration
+# NAR Café — client demo
 
-Colourful café website and interactive POS demo for Azerbaijan. Sample branding and prices in AZN.
+React + Vite website and POS demonstration. Sample branding and AZN prices. Data remains in each visitor’s browser. No real payments, fiscal receipts or confirmed bookings. Use sample customer details only.
 
-Records stay in each visitor’s browser. No real payments, shared staff backend, fiscal receipts or confirmed bookings. Please use sample customer details only.
-
-React + Vite. GitHub Actions deploys GitHub Pages.
+GitHub Actions builds and publishes to GitHub Pages.
